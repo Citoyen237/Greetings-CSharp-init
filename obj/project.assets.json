@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Greetings\\Greetings.csproj",
+      "projectUniqueName": "C:\\Users\\Citoyen\\Desktop\\Greetings\\Greetings.csproj",
       "projectName": "Greetings",
-      "projectPath": "D:\\Greetings\\Greetings.csproj",
+      "projectPath": "C:\\Users\\Citoyen\\Desktop\\Greetings\\Greetings.csproj",
       "packagesPath": "C:\\Users\\Citoyen\\.nuget\\packages\\",
-      "outputPath": "D:\\Greetings\\obj\\",
+      "outputPath": "C:\\Users\\Citoyen\\Desktop\\Greetings\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Citoyen\\AppData\\Roaming\\NuGet\\NuGet.Config"
